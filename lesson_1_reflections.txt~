@@ -1,0 +1,17 @@
+It was easier to find the bug and saved lot of time which would help me to increase productivity.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It will make easier for me to compare files ,if something goes wrong and revert it back to the old form. It also makes it easier to keep track of bigger projects.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+In programming projects most of the programs are inter-related and we need all the files so that the program works correctly. Saving one file at a time won't help us ,since we wont be able to use it in as functioning program.
+In Google Docs ,documents are totally standalone .So its fine.
+
+How can you use the commands git log and git diff to view the history of files?
+So that I can know when the bug was introduced.
+
+How might using version control make you more confident to make changes that could break something?
+So that I don't have to worry about the consequences. I can revert it to the working version in case something breaks.
+
+
+
