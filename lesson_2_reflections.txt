@@ -4,3 +4,8 @@ It tracks the files to so that we can commit them when we want.We need to inital
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a temporary area where we can make changes which we want to commit or we can remove the files from the files which we want to commit.Changes made in this area are temporary.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to do some experimental changes or want to create a new different version of application.
+
+How do the diagrams help you visualize the branch structure?
+It helps us to know where we are working and how to merge our changes or the pass changes without worrying or asking git again and again.
