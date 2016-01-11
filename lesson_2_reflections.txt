@@ -9,3 +9,6 @@ When I want to do some experimental changes or want to create a new different ve
 
 How do the diagrams help you visualize the branch structure?
 It helps us to know where we are working and how to merge our changes or the pass changes without worrying or asking git again and again.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+result of merging two branches is that functionality of both the branches work perfectly.
